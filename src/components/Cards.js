@@ -27,23 +27,22 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/img-3.jpg"
-              text="Explore the hidden waterfall deep
-                    inside the Amazon Jungle"
-              label="Adventure"
+              text="Set Sail in the Atlantic Ocean visiting 
+              Uncharted Waters"
+              label="Mystery"
               path="/services"
             />
             <CardItem
               src="images/img-4.jpg"
-              text="Travel through the Islands of Bali in a 
-              Private Cruise"
-              label="Luxury"
+              text="Experience Footbal on Top of the Himilayan Mountains"
+              label="Adventure"
               path="/services"
             />
             <CardItem
               src="images/img-8.jpg"
-              text="Travel through the Islands of Bali in a 
-              Private Cruise"
-              label="Luxury"
+              text="Ride through the Sahara Desert on 
+              a gudied camel tour"
+              label="Adrenaline"
               path="/services"
             />
           </ul>
